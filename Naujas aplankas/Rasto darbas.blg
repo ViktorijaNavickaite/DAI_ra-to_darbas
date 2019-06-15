@@ -1,0 +1,14 @@
+[1] Config.pm:304> INFO - This is Biber 2.12
+[1] Config.pm:307> INFO - Logfile is 'Rasto darbas.blg'
+[140] biber-MSWIN32:315> INFO - === 
+[239] Biber.pm:371> INFO - Reading 'Rasto darbas.bcf'
+[656] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[730] Biber.pm:4093> INFO - Processing section 0
+[782] Biber.pm:4254> INFO - Looking for bibtex format file 'references.bib' for section 0
+[792] bibtex.pm:1523> INFO - LaTeX decoding ...
+[836] bibtex.pm:1340> INFO - Found BibTeX data source 'references.bib'
+[1295] UCollate.pm:68> INFO - Overriding locale 'lt-LT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1295] UCollate.pm:68> INFO - Overriding locale 'lt-LT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1296] Biber.pm:3921> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'lt-LT'
+[1388] bbl.pm:636> INFO - Writing 'Rasto darbas.bbl' with encoding 'UTF-8'
+[1409] bbl.pm:739> INFO - Output to Rasto darbas.bbl

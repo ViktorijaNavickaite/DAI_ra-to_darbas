@@ -1,0 +1,36 @@
+---
+title: "plot2"
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+output:
+  html_document:
+    toc: true
+    df_print: paged
+    number_sections: true
+  pdf_document:
+    toc: true
+    number_sections: true
+    includes:
+     in_header: header_lt_txt.txt
+    
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+if(!require(tidyverse)) install.packages("tidyverse"); require(tidyverse)
+```
+
+```{r}
+df <- read.csv("c:/Users/viktorija/Desktop/DAI_raðto_darbas/data/duomenys2.csv", sep =";")
+df
+````
+
+```{r}
+ggplot(df, aes(x=reorder(Atsakymas,Þmoniø.skaièius), y=Þmoniø.skaièius))+
+  geom_bar(stat = "identity", fill="steelblue")+
+  ggtitle("Respondentø poþiûris á maþesnius þinomus prekës þenklus")+
+  labs(x="Atsakymas", y="Þmoniø skaièius")+
+  geom_text(aes(label=Þmoniø.skaièius), vjust=-0.3)
+```

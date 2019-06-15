@@ -1,0 +1,281 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{alamgir2011influence}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=59574b1a60575773f6cd448f74fdbd5e}{%
+           family={Alamgir},
+           familyi={A\bibinitperiod},
+           given={Mohammed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=42f92c5279174695477f592125a38455}{%
+           family={Nasir},
+           familyi={N\bibinitperiod},
+           given={Tasnuba},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=056cbd5bb2ade0e71dd4546d98a75258}{%
+           family={Shamsuddoha},
+           familyi={S\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=50185b169848f518ccc95ab494a994d3}{%
+           family={Nedelea},
+           familyi={N\bibinitperiod},
+           given={Alexandru},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0db3b029d2fc26693288603172110b32}
+      \strng{fullhash}{556222af1d9dd3dac6fb329532d5a592}
+      \strng{bibnamehash}{556222af1d9dd3dac6fb329532d5a592}
+      \strng{authorbibnamehash}{556222af1d9dd3dac6fb329532d5a592}
+      \strng{authornamehash}{0db3b029d2fc26693288603172110b32}
+      \strng{authorfullhash}{556222af1d9dd3dac6fb329532d5a592}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The USV Annals of Economics and Public Administration}
+      \field{number}{2}
+      \field{title}{Influence of brand name on consumer decision making process-an empirical study on car buyers.}
+      \field{volume}{10}
+      \field{year}{2011}
+      \true{nocite}
+      \field{pages}{142\bibrangedash 153}
+      \range{pages}{12}
+    \endentry
+    \entry{glinskiene2010vartotojku}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=17ef2d0d237fba8ef014d6e52c21f44f}{%
+           family={Glinskien{ė}},
+           familyi={G\bibinitperiod},
+           given={Rasa},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=89b4cfbc517e7346b98b3fd6e1991015}{%
+           family={Kvedarait{ė}},
+           familyi={K\bibinitperiod},
+           given={Nida},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a3d32a9500795ac98b47e7717ff4a16d}{%
+           family={Kvedaras},
+           familyi={K\bibinitperiod},
+           given={Modestass},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2444b9dde5011560b1ac51834e1b6594}
+      \strng{fullhash}{f2cb691bb59bc3cb5e5aa81fd2e3f26e}
+      \strng{bibnamehash}{f2cb691bb59bc3cb5e5aa81fd2e3f26e}
+      \strng{authorbibnamehash}{f2cb691bb59bc3cb5e5aa81fd2e3f26e}
+      \strng{authornamehash}{2444b9dde5011560b1ac51834e1b6594}
+      \strng{authorfullhash}{f2cb691bb59bc3cb5e5aa81fd2e3f26e}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ekonomika ir vadyba: aktualijos ir perspektyvos}
+      \field{number}{4}
+      \field{title}{Vartotoj{ų} lojalumo stiprinimas-reik{š}mingiausia {š}iuolaikini{ų} {į}moni{ų} siekiamyb{ė}}
+      \field{year}{2010}
+      \true{nocite}
+      \field{pages}{40\bibrangedash 52}
+      \range{pages}{13}
+    \endentry
+    \entry{oliver1999whence}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e5e9694cbf81effcd033141088a537b0}{%
+           family={Oliver},
+           familyi={O\bibinitperiod},
+           given={Richard\bibnamedelima L},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{e5e9694cbf81effcd033141088a537b0}
+      \strng{fullhash}{e5e9694cbf81effcd033141088a537b0}
+      \strng{bibnamehash}{e5e9694cbf81effcd033141088a537b0}
+      \strng{authorbibnamehash}{e5e9694cbf81effcd033141088a537b0}
+      \strng{authornamehash}{e5e9694cbf81effcd033141088a537b0}
+      \strng{authorfullhash}{e5e9694cbf81effcd033141088a537b0}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of marketing}
+      \field{number}{4\_suppl1}
+      \field{title}{Whence consumer loyalty?}
+      \field{volume}{63}
+      \field{year}{1999}
+      \true{nocite}
+      \field{pages}{33\bibrangedash 44}
+      \range{pages}{12}
+    \endentry
+    \entry{pileliene2008pardavimku}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=0dec6454a04cfedb83fdf9d430935eb7}{%
+           family={Pilelien{ė}},
+           familyi={P\bibinitperiod},
+           given={Lina},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0dec6454a04cfedb83fdf9d430935eb7}
+      \strng{fullhash}{0dec6454a04cfedb83fdf9d430935eb7}
+      \strng{bibnamehash}{0dec6454a04cfedb83fdf9d430935eb7}
+      \strng{authorbibnamehash}{0dec6454a04cfedb83fdf9d430935eb7}
+      \strng{authornamehash}{0dec6454a04cfedb83fdf9d430935eb7}
+      \strng{authorfullhash}{0dec6454a04cfedb83fdf9d430935eb7}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Vadybos mokslas ir studijos-kaimo versl{ų} ir j{ų} infrastrukt{ū}ros pl{ė}trai}
+      \field{number}{4}
+      \field{title}{Pardavim{ų} skatinimu pagr{į}stas vartotoj{ų} lojalumo formavimas}
+      \field{year}{2008}
+      \true{nocite}
+      \field{pages}{110\bibrangedash 117}
+      \range{pages}{8}
+    \endentry
+    \entry{vanagiene2008prekes}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=dd4fc17ee373b362b3eeadfb0a7b14bc}{%
+           family={Vanagien{ė}},
+           familyi={V\bibinitperiod},
+           given={Vitalija},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0a62f6d3a5bbd75f8e0785f7db6c7c3b}{%
+           family={Ramanauskien{ė}},
+           familyi={R\bibinitperiod},
+           given={Jadvyga},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8421eaabd60f17b763b69195066c0434}
+      \strng{fullhash}{8421eaabd60f17b763b69195066c0434}
+      \strng{bibnamehash}{8421eaabd60f17b763b69195066c0434}
+      \strng{authorbibnamehash}{8421eaabd60f17b763b69195066c0434}
+      \strng{authornamehash}{8421eaabd60f17b763b69195066c0434}
+      \strng{authorfullhash}{8421eaabd60f17b763b69195066c0434}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Vadybos mokslas ir studijos-kaimo versl{ų} ir j{ų} infrastrukt{ū}ros pl{ė}trai}
+      \field{number}{2}
+      \field{title}{Prek{ė}s {ž}enklo svarba ir jo vert{ė}s k{ū}rimo galimyb{ė}s}
+      \field{year}{2008}
+      \true{nocite}
+      \field{pages}{169\bibrangedash 180}
+      \range{pages}{12}
+    \endentry
+    \entry{zikiene2010vartotojku}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=9ba4cece74b244f274e70ff65f2d0d0e}{%
+           family={Zikien{ė}},
+           familyi={Z\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Vytauto Did{ž}iojo universitetas}%
+      }
+      \strng{namehash}{9ba4cece74b244f274e70ff65f2d0d0e}
+      \strng{fullhash}{9ba4cece74b244f274e70ff65f2d0d0e}
+      \strng{bibnamehash}{9ba4cece74b244f274e70ff65f2d0d0e}
+      \strng{authorbibnamehash}{9ba4cece74b244f274e70ff65f2d0d0e}
+      \strng{authornamehash}{9ba4cece74b244f274e70ff65f2d0d0e}
+      \strng{authorfullhash}{9ba4cece74b244f274e70ff65f2d0d0e}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vartotoj{ų} lojalumas: formavimas ir valdymas}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{vzigiene2006lojalumo}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=e8dd50c7e112335820a29a7e903dfd6c}{%
+           family={{Ž}igien{ė}},
+           familyi={Ž\bibinitperiod},
+           given={Gerda},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8b4ebb2580f95e03c67ce802e89a9e95}{%
+           family={Maci{ū}t{ė}},
+           familyi={M\bibinitperiod},
+           given={Giedr{ė}},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a96942bcb8bb85bac2efdaed2c4078e5}
+      \strng{fullhash}{a96942bcb8bb85bac2efdaed2c4078e5}
+      \strng{bibnamehash}{a96942bcb8bb85bac2efdaed2c4078e5}
+      \strng{authorbibnamehash}{a96942bcb8bb85bac2efdaed2c4078e5}
+      \strng{authornamehash}{a96942bcb8bb85bac2efdaed2c4078e5}
+      \strng{authorfullhash}{a96942bcb8bb85bac2efdaed2c4078e5}
+      \field{sortinit}{Ž}
+      \field{sortinithash}{1f12a1ccb5624f65014032ecad0798e6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tiltai}
+      \field{number}{1}
+      \field{title}{Lojalumo programos {į}vertinimas finansiniu ir rinkodaros po{ž}i{ū}riais}
+      \field{year}{2006}
+      \true{nocite}
+      \field{pages}{29\bibrangedash 35}
+      \range{pages}{7}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
